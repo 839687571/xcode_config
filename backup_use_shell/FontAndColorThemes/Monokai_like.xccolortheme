@@ -23,7 +23,7 @@
 	<key>DVTConsoleExectuableOutputTextFont</key>
 	<string>SFMono-Bold - 11.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
-	<string>0 0 0 1</string>
+	<string>0.227212 0.227205 0.227209 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
@@ -67,7 +67,7 @@
 	<key>DVTMarkupTextStrongFont</key>
 	<string>.AppleSystemUIFontEmphasized - 10.0</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.15129 0.152846 0.152815 1</string>
+	<string>0.0959589 0.0962379 0.0972051 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
@@ -130,51 +130,51 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>SFMono-Regular - 15.0</string>
+		<string>SimSun - 15.0</string>
 		<key>xcode.syntax.character</key>
-		<string>SFMono-Regular - 15.0</string>
+		<string>SimSun - 15.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>SFMono-Regular - 15.0</string>
+		<string>SimSun - 15.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>SFMono-Regular - 15.0</string>
+		<string>SimSun - 15.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>SFMono-Regular - 15.0</string>
+		<string>SimSun - 15.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>SFMono-Regular - 15.0</string>
+		<string>SimSun - 15.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>SFMono-Regular - 15.0</string>
+		<string>SimSun - 15.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>SFMono-Regular - 15.0</string>
+		<string>SimSun - 15.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>SFMono-Regular - 15.0</string>
+		<string>SimSun - 15.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>SFMono-Regular - 15.0</string>
+		<string>SimSun - 15.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>SFMono-Regular - 15.0</string>
+		<string>SimSun - 15.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>SFMono-Regular - 15.0</string>
+		<string>SimSun - 15.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>SFMono-Regular - 15.0</string>
+		<string>SimSun - 15.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>SFMono-Regular - 15.0</string>
+		<string>SimSun - 15.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>SFMono-Regular - 15.0</string>
+		<string>SimSun - 15.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>SFMono-Regular - 16.0</string>
+		<string>SimSun - 15.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>SFMono-Regular - 16.0</string>
+		<string>SimSun - 15.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>SFMono-Regular - 15.0</string>
+		<string>SimSun - 15.0</string>
 		<key>xcode.syntax.number</key>
-		<string>SFMono-Regular - 15.0</string>
+		<string>SimSun - 15.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>SFMono-Regular - 15.0</string>
+		<string>SimSun - 15.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>SFMono-Regular - 15.0</string>
+		<string>SimSun - 15.0</string>
 		<key>xcode.syntax.string</key>
-		<string>SFMono-Regular - 15.0</string>
+		<string>SimSun - 15.0</string>
 		<key>xcode.syntax.url</key>
-		<string>SFMono-Regular - 15.0</string>
+		<string>SimSun - 15.0</string>
 	</dict>
 </dict>
 </plist>
